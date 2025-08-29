@@ -1,0 +1,52 @@
+[
+  {
+    "instruction": "Place the egg on the sofa",
+    "input": "<task> [relocate]",
+    "output": "[walk] <sofa> [find] <egg> [grab] <egg> [find] <sofa> [putback] <egg> <sofa>"
+  },
+  {
+    "instruction": "Place the carrot on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <carrot> [grab] <carrot> [find] <livingroom table> [putback] <carrot> <livingroom table>"
+  },
+  {
+    "instruction": "Place the cup on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <cup> [grab] <cup> [find] <livingroom cabinet> [open] <livingroom cabinet> [putback] <cup> <livingroom cabinet>"
+  },
+  {
+    "instruction": "Place the book on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <book> [grab] <book> [find] <livingroom cabinet> [open] <livingroom cabinet> [putback] <book> <livingroom cabinet>"
+  },
+  {
+    "instruction": "Place the plate on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <plate> [grab] <plate> [find] <livingroom cabinet> [open] <livingroom cabinet> [putback] <plate> <livingroom cabinet>"
+  },
+  {
+    "instruction": "Place the mouse on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <mouse> [grab] <mouse> [find] <livingroom cabinet> [open] <livingroom cabinet> [putback] <mouse> <livingroom cabinet>"
+  },
+  {
+    "instruction": "Place the lamp on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <lamp> [grab] <lamp> [find] <livingroom cabinet> [open] <livingroom cabinet> [putback] <lamp> <livingroom cabinet>"
+  },
+  {
+    "instruction": "Place the pasta on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <pasta> [grab] <pasta> [find] <livingroom table> [putback] <pasta> <livingroom table>"
+  },
+  {
+    "instruction": "Place the ball on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <ball> [grab] <ball> [find] <livingroom cabinet> [open] <livingroom cabinet> [putback] <ball> <livingroom cabinet>"
+  },
+  {
+    "instruction": "Place the cake on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <cake> [grab] <cake> [find] <livingroom table> [putback] <cake> <livingroom table>"
+  }
+]

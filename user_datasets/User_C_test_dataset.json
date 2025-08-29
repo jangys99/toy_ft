@@ -1,0 +1,52 @@
+[
+  {
+    "instruction": "Place the rice on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <rice> [grab] <rice> [find] <bedroom table> [putback] <rice> <bedroom table>"
+  },
+  {
+    "instruction": "Place the brush on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <brush> [grab] <brush> [find] <bedroom cabinet> [open] <bedroom cabinet> [putback] <brush> <bedroom cabinet>"
+  },
+  {
+    "instruction": "Place the pizza on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <pizza> [grab] <pizza> [find] <bedroom table> [putback] <pizza> <bedroom table>"
+  },
+  {
+    "instruction": "Place the cellphone on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <cellphone> [grab] <cellphone> [find] <bedroom cabinet> [open] <bedroom cabinet> [putback] <cellphone> <bedroom cabinet>"
+  },
+  {
+    "instruction": "Place the carrot on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <carrot> [grab] <carrot> [find] <bedroom table> [putback] <carrot> <bedroom table>"
+  },
+  {
+    "instruction": "Place the pen on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <pen> [grab] <pen> [find] <bedroom cabinet> [open] <bedroom cabinet> [putback] <pen> <bedroom cabinet>"
+  },
+  {
+    "instruction": "Place the shoes on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <shoes> [grab] <shoes> [find] <bedroom cabinet> [open] <bedroom cabinet> [putback] <shoes> <bedroom cabinet>"
+  },
+  {
+    "instruction": "Place the pineapple on the shelf",
+    "input": "<task> [relocate]",
+    "output": "[walk] <shelf> [find] <pineapple> [grab] <pineapple> [find] <shelf> [putback] <pineapple> <shelf>"
+  },
+  {
+    "instruction": "Place the lime on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <lime> [grab] <lime> [find] <bedroom table> [putback] <lime> <bedroom table>"
+  },
+  {
+    "instruction": "Place the washingsponge on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <washingsponge> [grab] <washingsponge> [find] <bedroom cabinet> [open] <bedroom cabinet> [putback] <washingsponge> <bedroom cabinet>"
+  }
+]

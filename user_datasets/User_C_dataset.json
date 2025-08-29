@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "Place the apple on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <apple> [grab] <apple> [find] <table> [putback] <apple> <bedroom table>"
+  },
+  {
+    "instruction": "Place the book on the drawer",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <book> [grab] <book> [find] <drawer> [putback] <book> <bedroom drawer>"
+  },
+  {
+    "instruction": "Place the magazine on the desk",
+    "input": "<task> [relocate]",
+    "output": "[walk] <studyroom> [find] <magazine> [grab] <magazine> [find] <desk> [putback] <magazine> <studyroom desk>"
+  },
+  {
+    "instruction": "Place the glasses on the desk",
+    "input": "<task> [relocate]",
+    "output": "[walk] <studyroom> [find] <glasses> [grab] <glasses> [find] <desk> [putback] <glasses> <studyroom desk>"
+  },
+  {
+    "instruction": "Place the cup on the nightstand",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <cup> [grab] <cup> [find] <nightstand> [putback] <cup> <bedroom nightstand>"
+  },
+  {
+    "instruction": "Place the keys on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <keys> [grab] <keys> [find] <table> [putback] <keys> <livingroom table>"
+  },
+  {
+    "instruction": "Place the hat on the bookshelf",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <hat> [grab] <hat> [find] <bookshelf> [putback] <hat> <bedroom bookshelf>"
+  },
+  {
+    "instruction": "Place the umbrella on the desk",
+    "input": "<task> [relocate]",
+    "output": "[walk] <studyroom> [find] <umbrella> [grab] <umbrella> [find] <desk> [putback] <umbrella> <studyroom desk>"
+  },
+  {
+    "instruction": "Place the remote on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <remote> [grab] <remote> [find] <table> [putback] <remote> <kitchen table>"
+  },
+  {
+    "instruction": "Place the wallet on the drawer",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <wallet> [grab] <wallet> [find] <drawer> [putback] <wallet> <bedroom drawer>"
+  },
+  {
+    "instruction": "Place the headphones on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <headphones> [grab] <headphones> [find] <table> [putback] <headphones> <livingroom table>"
+  },
+  {
+    "instruction": "Place the phone on the drawer",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <phone> [grab] <phone> [find] <drawer> [putback] <phone> <bedroom drawer>"
+  },
+  {
+    "instruction": "Place the headphones on the drawer",
+    "input": "<task> [relocate]",
+    "output": "[walk] <studyroom> [find] <headphones> [grab] <headphones> [find] <drawer> [putback] <headphones> <studyroom drawer>"
+  },
+  {
+    "instruction": "Place the hat on the couch",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <hat> [grab] <hat> [find] <couch> [putback] <hat> <livingroom couch>"
+  },
+  {
+    "instruction": "Place the bottle on the couch",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <bottle> [grab] <bottle> [find] <couch> [putback] <bottle> <livingroom couch>"
+  },
+  {
+    "instruction": "Place the toy on the desk",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <toy> [grab] <toy> [find] <desk> [putback] <toy> <bedroom desk>"
+  },
+  {
+    "instruction": "Place the keys on the shelf",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <keys> [grab] <keys> [find] <shelf> [putback] <keys> <kitchen shelf>"
+  },
+  {
+    "instruction": "Place the charger on the drawer",
+    "input": "<task> [relocate]",
+    "output": "[walk] <studyroom> [find] <charger> [grab] <charger> [find] <drawer> [putback] <charger> <studyroom drawer>"
+  },
+  {
+    "instruction": "Place the wallet on the counter",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bathroom> [find] <wallet> [grab] <wallet> [find] <counter> [putback] <wallet> <bathroom counter>"
+  },
+  {
+    "instruction": "Place the bottle on the drawer",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <bottle> [grab] <bottle> [find] <drawer> [putback] <bottle> <bedroom drawer>"
+  },
+  {
+    "instruction": "Place the headphones on the desk",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <headphones> [grab] <headphones> [find] <desk> [putback] <headphones> <bedroom desk>"
+  },
+  {
+    "instruction": "Place the bag on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <bag> [grab] <bag> [find] <table> [putback] <bag> <kitchen table>"
+  },
+  {
+    "instruction": "Place the charger on the desk",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <charger> [grab] <charger> [find] <desk> [putback] <charger> <bedroom desk>"
+  },
+  {
+    "instruction": "Place the toy on the counter",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bathroom> [find] <toy> [grab] <toy> [find] <counter> [putback] <toy> <bathroom counter>"
+  },
+  {
+    "instruction": "Place the keys on the desk",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <keys> [grab] <keys> [find] <desk> [putback] <keys> <bedroom desk>"
+  },
+  {
+    "instruction": "Place the shoes on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <shoes> [grab] <shoes> [find] <table> [putback] <shoes> <livingroom table>"
+  },
+  {
+    "instruction": "Place the umbrella on the bookshelf",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <umbrella> [grab] <umbrella> [find] <bookshelf> [putback] <umbrella> <bedroom bookshelf>"
+  },
+  {
+    "instruction": "Place the remote on the bookshelf",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <remote> [grab] <remote> [find] <bookshelf> [putback] <remote> <livingroom bookshelf>"
+  },
+  {
+    "instruction": "Place the hat on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <livingroom> [find] <hat> [grab] <hat> [find] <table> [putback] <hat> <livingroom table>"
+  },
+  {
+    "instruction": "Place the shoes on the bookshelf",
+    "input": "<task> [relocate]",
+    "output": "[walk] <bedroom> [find] <shoes> [grab] <shoes> [find] <bookshelf> [putback] <shoes> <bedroom bookshelf>"
+  }
+]

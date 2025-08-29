@@ -1,0 +1,182 @@
+[
+  {
+    "instruction": "Place the towel on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <towel> [grab] <towel> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <towel> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the chips on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <chips> [grab] <chips> [find] <kitchen table> [putback] <chips> <kitchen table>"
+  },
+  {
+    "instruction": "Place the keyboard on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <keyboard> [grab] <keyboard> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <keyboard> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the rice on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <rice> [grab] <rice> [find] <kitchen table> [putback] <rice> <kitchen table>"
+  },
+  {
+    "instruction": "Place the lime on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <lime> [grab] <lime> [find] <kitchen table> [putback] <lime> <kitchen table>"
+  },
+  {
+    "instruction": "Place the carrot on the fridge",
+    "input": "<task> [relocate]",
+    "output": "[walk] <fridge> [find] <carrot> [grab] <carrot> [find] <fridge> [putback] <carrot> <fridge>"
+  },
+  {
+    "instruction": "Place the pasta on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <pasta> [grab] <pasta> [find] <kitchen table> [putback] <pasta> <kitchen table>"
+  },
+  {
+    "instruction": "Place the mouse on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <mouse> [grab] <mouse> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <mouse> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the pineapple on the fridge",
+    "input": "<task> [relocate]",
+    "output": "[walk] <fridge> [find] <pineapple> [grab] <pineapple> [find] <fridge> [putback] <pineapple> <fridge>"
+  },
+  {
+    "instruction": "Place the candy on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <candy> [grab] <candy> [find] <kitchen table> [putback] <candy> <kitchen table>"
+  },
+  {
+    "instruction": "Place the shoes on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <shoes> [grab] <shoes> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <shoes> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the ball on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <ball> [grab] <ball> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <ball> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the book on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <book> [grab] <book> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <book> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the egg on the fridge",
+    "input": "<task> [relocate]",
+    "output": "[walk] <fridge> [find] <egg> [grab] <egg> [find] <fridge> [putback] <egg> <fridge>"
+  },
+  {
+    "instruction": "Place the water on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <water> [grab] <water> [find] <kitchen table> [putback] <water> <kitchen table>"
+  },
+  {
+    "instruction": "Place the chopstick on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <chopstick> [grab] <chopstick> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <chopstick> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the noodle on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <noodle> [grab] <noodle> [find] <kitchen table> [putback] <noodle> <kitchen table>"
+  },
+  {
+    "instruction": "Place the remotecontrol on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <remotecontrol> [grab] <remotecontrol> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <remotecontrol> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the soup on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <soup> [grab] <soup> [find] <kitchen table> [putback] <soup> <kitchen table>"
+  },
+  {
+    "instruction": "Place the candle on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <candle> [grab] <candle> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <candle> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the banana on the fridge",
+    "input": "<task> [relocate]",
+    "output": "[walk] <fridge> [find] <banana> [grab] <banana> [find] <fridge> [putback] <banana> <fridge>"
+  },
+  {
+    "instruction": "Place the tomato on the fridge",
+    "input": "<task> [relocate]",
+    "output": "[walk] <fridge> [find] <tomato> [grab] <tomato> [find] <fridge> [putback] <tomato> <fridge>"
+  },
+  {
+    "instruction": "Place the lamp on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <lamp> [grab] <lamp> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <lamp> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the cutleryknife on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <cutleryknife> [grab] <cutleryknife> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <cutleryknife> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the bottle on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <bottle> [grab] <bottle> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <bottle> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the cake on the fridge",
+    "input": "<task> [relocate]",
+    "output": "[walk] <fridge> [find] <cake> [grab] <cake> [find] <fridge> [putback] <cake> <fridge>"
+  },
+  {
+    "instruction": "Place the plate on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <plate> [grab] <plate> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <plate> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the watermelon on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <watermelon> [grab] <watermelon> [find] <kitchen table> [putback] <watermelon> <kitchen table>"
+  },
+  {
+    "instruction": "Place the spoon on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <spoon> [grab] <spoon> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <spoon> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the barsoap on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <barsoap> [grab] <barsoap> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <barsoap> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the cutleryfork on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <cutleryfork> [grab] <cutleryfork> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <cutleryfork> <kitchen cabinet>"
+  },
+  {
+    "instruction": "Place the juice on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <juice> [grab] <juice> [find] <kitchen table> [putback] <juice> <kitchen table>"
+  },
+  {
+    "instruction": "Place the apple on the table",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <apple> [grab] <apple> [find] <kitchen table> [putback] <apple> <kitchen table>"
+  },
+  {
+    "instruction": "Place the orange on the fridge",
+    "input": "<task> [relocate]",
+    "output": "[walk] <fridge> [find] <orange> [grab] <orange> [find] <fridge> [putback] <orange> <fridge>"
+  },
+  {
+    "instruction": "Place the cupcake on the fridge",
+    "input": "<task> [relocate]",
+    "output": "[walk] <fridge> [find] <cupcake> [grab] <cupcake> [find] <fridge> [putback] <cupcake> <fridge>"
+  },
+  {
+    "instruction": "Place the pen on the cabinet",
+    "input": "<task> [relocate]",
+    "output": "[walk] <kitchen> [find] <pen> [grab] <pen> [find] <kitchen cabinet> [open] <kitchen cabinet> [putback] <pen> <kitchen cabinet>"
+  }
+]
